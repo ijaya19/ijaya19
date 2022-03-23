@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ijaya19
+- 👀 I’m interested in Web Designing
+- 🌱 I’m currently learning Front End Developing 
