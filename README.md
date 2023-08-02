@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ijaya19
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning Front End Developing 
+- 👀 I’m interested in Front End Development
+- 🌱 I'm currently working on a Full Stack project.
