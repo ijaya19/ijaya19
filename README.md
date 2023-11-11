@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ijaya19
-- 👀 I’m interested in Front End Development
-- 🌱 I'm currently working on a Full Stack project.
+- 👀 I’m interested in Data Analysis and Web Development
+- 🌱 I'm currently working as Java Developer and Analyst
