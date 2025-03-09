@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ijaya19
-- 👀 I’m interested in Data Analysis and Web Development
-- 🌱 I'm currently working as Java Developer and Analyst
+- 👀 I’m interested in Data Engineering and Analysis
+- 🌱 I'm currently working as Application Deveoloper
